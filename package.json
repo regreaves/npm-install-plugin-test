@@ -1,0 +1,8 @@
+{
+  "name": "npm-install-plugin-test",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "fastify start plugin.mjs"
+  },
+  "type": "module"
+}
